@@ -3,7 +3,7 @@
   :url "https://github.com/clojuredatascience/ch2-inference"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[org.clojure/clojure "1.7.0-RC1"]
+  :dependencies [[org.clojure/clojure "1.10.0"]
                  [org.clojure/clojurescript "0.0-3308"]
                  [incanter/incanter "1.5.6"]
                  [medley "0.6.0"]
